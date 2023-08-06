@@ -1,0 +1,38 @@
+Integrantes:
+
+* Javier Matamala, 202273560-0, Paralelo 201
+Nombre GitHub: afk-user
+Encargado de la parte 2 de la tarea, Listas de Suerte.cpp
+Realizó las funciones:
+- intercambiarTarjeta
+- unDia
+- variosDias
+- int main de prueba
+Colaboró en las funciones:
+- puntaje
+Comentó la tarea 2
+
+* Adán Contreras, 202273519-8, Paralelo 201
+Nombre GitHub: TioYuichi
+Líder del repositorio en GitHub, encargado de la revisión de los Merges, GitPulls y que todo funcionara bien.
+Encargado de la parte 2 de la tarea, Listas de Suerte.cpp.
+Realizó las funciones:
+- comprarTarjeta
+- puntaje
+Colaboró en las funciones:
+- variosDias
+- unDia
+- int main de prueba
+- estructura base o esqueleto de ambas tareas, (traspasar los datos entregados y organizarlos)
+Comentó la tarea 2
+
+* Alonso Cortés, 202273532-5, Paralelo 201
+NombreGitHub: SeniorZas
+Encargado de la tarea 1, Casino.cpp
+Realizó las funciones:
+- puedeConsumir
+- int main de prueba
+Colaboró en:
+- Ayuda teórica y conceptual para tarea 2
+- GitPulls a la main branch
+Comentó la tarea 1

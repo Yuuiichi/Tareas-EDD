@@ -1,0 +1,18 @@
+Integrantes:
+
+* Javier Matamala, 202273560-0, Paralelo 201
+Nombre GitHub: afk-user
+
+* Adán Contreras, 202273519-8, Paralelo 201
+Nombre GitHub: Yuuiichi
+
+* Alonso Cortés, 202273532-5, Paralelo 201
+NombreGitHub: SeniorZas
+
+Esta tarea la trabajamos de la misma forma que la tarea 2, ya que nos funcionó bastante bien,
+debido a lo postulado anteriormente en la tarea 2.
+Todos trabajamos dentro de la branch "main", sin tener cada uno su propia branch para trabajar,
+siendo esto posible gracias a la extensión de vscode llamada "LiveShare", que nos permítia trabajar a todos en la
+misma branch en tiempo real (Similar a cuando se trabaja en Overleaf LaTeX).
+De esta forma, tanto el problema 1 como el problema 2 lo trabajamos en conjunto, por lo que resulta algo complicado
+especificar qué trabajó cada uno, espero que entiendan nuestros motivos para hacer esto.
